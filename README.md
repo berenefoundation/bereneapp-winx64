@@ -51,4 +51,4 @@ Todos los ejecutables están:
 
 ## 🧾 Verificación oficial
 
-Certificado:
+Certificado: BereneFoundation Software
