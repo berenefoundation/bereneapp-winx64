@@ -1,4 +1,4 @@
-# 🚀 BereneApp
+# BereneApp
 
 ![Status](https://img.shields.io/badge/status-beta-yellow)
 ![Version](https://img.shields.io/badge/version-v0.1-blue)
@@ -6,40 +6,22 @@
 
 ---
 
-## 🧠 ¿Qué es BereneApp?
+## ¿Qué es BereneApp?
 
 **BereneApp** es una aplicación desarrollada por Berene Foundation para ofrecer un entorno de software educativo y experimental.
 
 ---
 
-## 📦 Descargas
+## Descargas
 
-### 🟢 Versión actual (Beta 0.1)
+### Versión actual (Beta 0.1)
 
-- 🧱 `bereneapp-win-x64-noupdate.exe`  
-  👉 Instalación offline (sin actualizaciones)
-
----
-
-## ✨ Características
-
-- 🖥️ Aplicación Windows x64
-- 🔐 Firma digital con BereneFoundation Software
-- 📦 Verificación por SHA-256
-- 🧪 Versión Beta (en desarrollo)
-- 🚫 Sin sistema de auto-update (por ahora)
+- `bereneapp-win-x64-noupdate.exe`  
+  Instalación offline (sin actualizaciones)
 
 ---
 
-## ⚠️ Estado del proyecto
-
-- 🟡 En fase beta
-- 🧪 Puede contener errores
-- 🔄 Cambios frecuentes
-
----
-
-## 🔐 Seguridad
+## Seguridad
 
 Todos los ejecutables están:
 
@@ -49,6 +31,6 @@ Todos los ejecutables están:
 
 ---
 
-## 🧾 Verificación oficial
+## Verificación oficial
 
 Certificado: BereneFoundation Software
