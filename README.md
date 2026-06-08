@@ -1,8 +1,8 @@
 # BereneApp
 
-![Status](https://img.shields.io/badge/status-beta-yellow)
+![Status](https://img.shields.io/badge/status-beta-red)
 ![Version](https://img.shields.io/badge/version-v0.1-blue)
-![License](https://img.shields.io/badge/license-Berene%20Software%20License-green)
+![License](https://img.shields.io/badge/license-BereneSoftware%20License-green)
 
 ---
 
